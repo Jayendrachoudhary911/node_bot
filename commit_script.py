@@ -5,7 +5,7 @@ from datetime import datetime
 # Configuration
 REPO_PATH = "./"  # Path to your Git repository
 FILE_NAME = "dummy_file.txt"  # Name of the file to modify
-NUM_COMMITS = 50  # Number of commits to make
+NUM_COMMITS = 500  # Number of commits to make
 COMMIT_MESSAGE = "New Commit"
 
 
